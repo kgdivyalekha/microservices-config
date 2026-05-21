@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Bank's Loans Management Production Team"
+  message: "Welcome to Bank's Loans Management Prod Team"
   contactDetails:
     name: "lekha Gunasekaran"
     email: "lekha@bank.com"
