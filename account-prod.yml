@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 account:
-  message: "Welcome to Bank API Services - Production Docker"
+  message: "Welcome to Bank API Services - Production"
   contactDetails:
     name: "Lekha Gunasekaran - Product Owner"
     email: "{cipher}d69fa6c0ffaf365be9c07813daaebf30afd7b68febc482851699c5977c72a1cd367c4d3f08187d16cca6e76b4b28c26a"
